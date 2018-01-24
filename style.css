@@ -1,13 +1,4 @@
 
-.block{
-  background-color:black;
-  opacity:.8;
-  padding:10px;
-  width:50%;
-  margin-right:auto;
-  margin-left:auto;
-  border-radius:10px;
-}
 /* i */
 .nav-pills{
   font-size:1.7em;
@@ -37,21 +28,24 @@ h1{
 }
 
 .pageOne{
-background:url("https://s22.postimg.org/ty2humfk1/Web-_Development.jpg");
+background:url("https://s20.postimg.org/eo06lvwjx/USA-_California-_San-_Francisco-_Skyline-_Windigo-2013-_IMG1336-_Lg-_RGB.jpg");
  background-size:cover;
 padding-bottom:10%;
 }
 
 .pageTwo{
- background:url(https://s2.postimg.org/hhr6rkg0p/559128.jpg);
+ background:url("https://s20.postimg.org/vkp9ep9d9/startup-593334.jpg");
   background-size:cover;
  padding-bottom:10%;
   padding-top:5%;
 }
 
-
+.pad{
+  margin-top: 20px;
+  padding-top: 60px;
+}
 .pageThree{
-  background:url(https://s2.postimg.org/hhr6rkg0p/559128.jpg);
+  background:url("https://s20.postimg.org/mje29hahp/Bing_Wallpaper-2017-07-12.jpg");
 
 
 }
